@@ -25,7 +25,7 @@ global.owner = ['923076904159'] //ur owner number
 global.ownernomer = "923076904159" //ur owner number2
 global.ownername = "MR SHARI📍" //ur owner name
 global.ytname = "YT: MR SHARI" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.socialm = "GitHub: minepc001" //ur github or insta name
 global.location = "PAKISTAN, MULTAN, PUNJAB" //ur location
 
 //new
